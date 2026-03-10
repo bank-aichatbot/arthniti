@@ -1,0 +1,16 @@
+{
+  "name": "arthniti",
+  "version": "1.0.0",
+  "description": "ArthNiti - GenAI + RAG Engine for Banking Policies",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "cheerio": "^1.0.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
