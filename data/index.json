@@ -1,6 +1,538 @@
 {
-  "lastScraped": null,
+  "lastScraped": "2026-03-11T05:16:14.626Z",
   "totalDocs": 35,
-  "changedThisRun": 0,
-  "docs": []
+  "changedThisRun": 19,
+  "docs": [
+    {
+      "id": "kyc",
+      "title": "RBI (Commercial Banks) Know Your Customer (KYC) Directions",
+      "category": "Customer & Account Operations",
+      "hash": "3cd69e60c9de546cb717d93185ac53429ef01937c984d9a78ada2cbd73463e26",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13141",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:11:49.652Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "loans-statutory",
+      "title": "Master Direction – Loans and Advances – Statutory and Other Restrictions",
+      "category": "Customer & Account Operations",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "interest-advances",
+      "title": "Master Direction – Interest Rate on Advances",
+      "category": "Customer & Account Operations",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "non-fund-based",
+      "title": "RBI (Non-Fund Based Credit Facilities) Directions, 2025",
+      "category": "Customer & Account Operations",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "wilful-defaulters",
+      "title": "Master Direction – Wilful Defaulters and Large Defaulters",
+      "category": "Customer & Account Operations",
+      "hash": "fa330c3bc89398ca45848d76eff47ca9f1fd04740dc6ad7c51ffb7a17fe189cd",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13144",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:12:10.037Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "iracp",
+      "title": "Master Circular – Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)",
+      "category": "Credit & NPA Management",
+      "hash": "6541479700cca10f122b4cd4db7c8f9ca71e2cde4e21f70b9a301feefad55c3b",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13146",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:12:22.198Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "stressed-assets",
+      "title": "Master Direction – Prudential Framework for Resolution of Stressed Assets",
+      "category": "Credit & NPA Management",
+      "hash": "5dacec0a613676cbbea8c37c8638b67e17d752f17fbc65337385765485c4112e",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:12:33.301Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "agriculture-gcc",
+      "title": "Master Direction – Credit Flow to Agriculture and General Credit Card Scheme",
+      "category": "Credit & NPA Management",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "priority-sector",
+      "title": "Master Direction – Priority Sector Lending Targets and Classification",
+      "category": "Credit & NPA Management",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "msme",
+      "title": "Master Direction – Lending to Micro, Small and Medium Enterprises",
+      "category": "Credit & NPA Management",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "microfinance",
+      "title": "Master Direction – Microfinance Loans",
+      "category": "Credit & NPA Management",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "housing-finance",
+      "title": "Master Direction – Housing Finance",
+      "category": "Credit & NPA Management",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "securitisation",
+      "title": "RBI (Securitisation of Standard Assets) Directions, 2021",
+      "category": "Credit & NPA Management",
+      "hash": "2592fa00bebb95ea611e033c3e417a1d0c36160693287a1a7123adcbf92390ca",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13150",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:13:00.183Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "large-exposures",
+      "title": "Master Direction – Large Exposures Framework",
+      "category": "Credit & NPA Management",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "aml-cft",
+      "title": "Master Direction – Anti-Money Laundering and Combating Financing of Terrorism (AML/CFT)",
+      "category": "Compliance & AML",
+      "hash": "d4013e165d7dc1848d78e12ee316578437204e5861251e8c25ca48684c094627",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13151",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:13:14.767Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "fraud-reporting",
+      "title": "Master Direction – Frauds – Classification and Reporting by Commercial Banks",
+      "category": "Compliance & AML",
+      "hash": "5a3787882a2bb4fdaecbc24e382cf84fb024617e33bc59195895aa36cd3ed648",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10477",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:13:26.016Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "corp-governance",
+      "title": "Master Direction – Corporate Governance in Banks",
+      "category": "Compliance & AML",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "compensation",
+      "title": "Master Direction – Compensation of Whole Time Directors / CEOs / Material Risk Takers",
+      "category": "Compliance & AML",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "digital-pay-sec",
+      "title": "Master Direction – Digital Payment Security Controls",
+      "category": "Digital & Payments",
+      "hash": "e5a3f77e579de55afd1f985edf0bc01a15a0e27d151b7519719d2702305ca4c7",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12898",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:13:43.226Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "digital-lending",
+      "title": "Master Direction – Digital Lending",
+      "category": "Digital & Payments",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "ppi",
+      "title": "Master Direction – Prepaid Payment Instruments",
+      "category": "Digital & Payments",
+      "hash": "f51dc322c2c589943bdf27c209f6c87fe11c4b4b0d2372ff525142fd015ea4e7",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12156",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:13:57.638Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "payment-auth",
+      "title": "Master Direction – Authorisation of Payment Systems",
+      "category": "Digital & Payments",
+      "hash": "dd2787c3693a5e0f6bd8d8eeb018eacdaf62898fd0f66ac24c606353ba643aca",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12715",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:14:09.140Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "investment-port",
+      "title": "Master Direction – Classification, Valuation and Operation of Investment Portfolio",
+      "category": "Treasury & Investments",
+      "hash": "5dacec0a613676cbbea8c37c8638b67e17d752f17fbc65337385765485c4112e",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:14:20.576Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "liquidity-lcr",
+      "title": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
+      "category": "Treasury & Investments",
+      "hash": "e0410f27ed8a5cd8548bd474583833d688e6aa51332c8943301bd2ddb2c1985f",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13160",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:14:32.087Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "irrbb",
+      "title": "Master Direction – Interest Rate Risk in Banking Book (IRRBB)",
+      "category": "Treasury & Investments",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "primary-dealers",
+      "title": "Master Direction – Operational Guidelines for Primary Dealers",
+      "category": "Treasury & Investments",
+      "hash": "d59cde3134c752bbe0b6dfd5c7301e88604d0c8a05ff2929f7bca2956a2880d6",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10476",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:14:46.689Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "basel3",
+      "title": "Master Circular – Basel III Capital Regulations",
+      "category": "Capital & Regulatory Reporting",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "skipped",
+      "snapshotDates": []
+    },
+    {
+      "id": "op-risk",
+      "title": "Master Direction – Minimum Capital Requirements for Operational Risk",
+      "category": "Capital & Regulatory Reporting",
+      "hash": "14d162ce289481e2e96a01fea77dbd4b6a41d3be04b2a590a7359693dbd28155",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13328",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:15:09.083Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "reg-reporting",
+      "title": "Master Direction – Regulatory Reporting by Commercial Banks",
+      "category": "Capital & Regulatory Reporting",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "customer-service",
+      "title": "Master Direction – Customer Service in Banks",
+      "category": "Customer Service & Grievance",
+      "hash": null,
+      "sourceUrl": null,
+      "pdfUrl": null,
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": null,
+      "snapshotDate": null,
+      "status": "not_found",
+      "snapshotDates": []
+    },
+    {
+      "id": "ombudsman-2023",
+      "title": "RBI (Internal Ombudsman for Regulated Entities) Directions, 2023",
+      "category": "Customer Service & Grievance",
+      "hash": "ae028ab1eba1b3f532b089b51db4542244b927dcc6b27d4f168acfc1ff9fe588",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12586",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:15:26.532Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "ombudsman-2026",
+      "title": "RBI (Commercial Banks Internal Ombudsman) Directions, 2026",
+      "category": "Customer Service & Grievance",
+      "hash": "902ead106ed2729dec324b7b2448a18b09430c13b635ec50d1849d647d83d09b",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13271",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:15:37.719Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "fema-export",
+      "title": "Master Direction – Export of Goods and Services (FEMA)",
+      "category": "Foreign Exchange (FEMA)",
+      "hash": "05d25cd2a41bf28a61b99d9fdfd5855bfcd08bebec2ae78c652a8e486f2cffd4",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10395",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:15:49.137Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "fema-import",
+      "title": "Master Direction – Import of Goods and Services (FEMA)",
+      "category": "Foreign Exchange (FEMA)",
+      "hash": "06880389de9effe05306314142c263bc8918c58f7b2896299051a42b06254078",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10201",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:16:00.587Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "fema-remittance",
+      "title": "Master Direction – Remittance of Assets (FEMA)",
+      "category": "Foreign Exchange (FEMA)",
+      "hash": "865b55c2e4e85062d69dceeb5b9ec31dab9952f818c213d8578bc432a32131d1",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10192",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+      "rbiLastUpdated": null,
+      "ourLastSnapshot": "2026-03",
+      "snapshotDate": "2026-03-11T05:16:11.623Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-03"
+      ],
+      "status": "ok"
+    }
+  ]
 }

@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "docId": "kyc",
+    "docTitle": "RBI (Commercial Banks) Know Your Customer (KYC) Directions",
+    "category": "Customer & Account Operations",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "wilful-defaulters",
+    "docTitle": "Master Direction – Wilful Defaulters and Large Defaulters",
+    "category": "Customer & Account Operations",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "iracp",
+    "docTitle": "Master Circular – Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)",
+    "category": "Credit & NPA Management",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "stressed-assets",
+    "docTitle": "Master Direction – Prudential Framework for Resolution of Stressed Assets",
+    "category": "Credit & NPA Management",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "securitisation",
+    "docTitle": "RBI (Securitisation of Standard Assets) Directions, 2021",
+    "category": "Credit & NPA Management",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "aml-cft",
+    "docTitle": "Master Direction – Anti-Money Laundering and Combating Financing of Terrorism (AML/CFT)",
+    "category": "Compliance & AML",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "fraud-reporting",
+    "docTitle": "Master Direction – Frauds – Classification and Reporting by Commercial Banks",
+    "category": "Compliance & AML",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "digital-pay-sec",
+    "docTitle": "Master Direction – Digital Payment Security Controls",
+    "category": "Digital & Payments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "ppi",
+    "docTitle": "Master Direction – Prepaid Payment Instruments",
+    "category": "Digital & Payments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "payment-auth",
+    "docTitle": "Master Direction – Authorisation of Payment Systems",
+    "category": "Digital & Payments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "investment-port",
+    "docTitle": "Master Direction – Classification, Valuation and Operation of Investment Portfolio",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "liquidity-lcr",
+    "docTitle": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "primary-dealers",
+    "docTitle": "Master Direction – Operational Guidelines for Primary Dealers",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "op-risk",
+    "docTitle": "Master Direction – Minimum Capital Requirements for Operational Risk",
+    "category": "Capital & Regulatory Reporting",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "ombudsman-2023",
+    "docTitle": "RBI (Internal Ombudsman for Regulated Entities) Directions, 2023",
+    "category": "Customer Service & Grievance",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "ombudsman-2026",
+    "docTitle": "RBI (Commercial Banks Internal Ombudsman) Directions, 2026",
+    "category": "Customer Service & Grievance",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "fema-export",
+    "docTitle": "Master Direction – Export of Goods and Services (FEMA)",
+    "category": "Foreign Exchange (FEMA)",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "fema-import",
+    "docTitle": "Master Direction – Import of Goods and Services (FEMA)",
+    "category": "Foreign Exchange (FEMA)",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "fema-remittance",
+    "docTitle": "Master Direction – Remittance of Assets (FEMA)",
+    "category": "Foreign Exchange (FEMA)",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  }
+]
