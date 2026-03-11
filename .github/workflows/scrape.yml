@@ -2,10 +2,8 @@ name: ArthNiti - Scrape RBI Documents
 
 on:
   schedule:
-    # Runs on the 1st of every month at 02:00 UTC
     - cron: '0 2 1 * *'
   workflow_dispatch:
-    # Manual trigger from GitHub Actions tab
     inputs:
       force_refresh:
         description: 'Force re-scrape even if no changes detected'
@@ -31,7 +29,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       - name: Install dependencies
         run: npm install
