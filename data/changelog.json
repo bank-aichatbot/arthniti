@@ -1,5 +1,21 @@
 [
   {
+    "docId": "digital-lending",
+    "docTitle": "Master Direction – Digital Lending",
+    "category": "Digital & Payments",
+    "changeDate": "2026-04-01T07:09:05.980Z",
+    "snapshot": "2026-04",
+    "status": "updated"
+  },
+  {
+    "docId": "basel3",
+    "docTitle": "Master Circular – Basel III Capital Regulations",
+    "category": "Capital & Regulatory Reporting",
+    "changeDate": "2026-04-01T07:09:05.980Z",
+    "snapshot": "2026-04",
+    "status": "updated"
+  },
+  {
     "docId": "kyc",
     "docTitle": "RBI (Commercial Banks) Know Your Customer (KYC) Directions",
     "category": "Customer & Account Operations",

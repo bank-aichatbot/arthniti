@@ -1,7 +1,7 @@
 {
-  "lastScraped": "2026-03-11T05:16:14.626Z",
+  "lastScraped": "2026-04-01T07:09:05.980Z",
   "totalDocs": 35,
-  "changedThisRun": 19,
+  "changedThisRun": 2,
   "docs": [
     {
       "id": "kyc",
@@ -286,14 +286,18 @@
       "id": "digital-lending",
       "title": "Master Direction – Digital Lending",
       "category": "Digital & Payments",
-      "hash": null,
-      "sourceUrl": null,
-      "pdfUrl": null,
+      "hash": "3fbfe9468029627cc45bc9dde5e183f0cc81219dff05d6ed06fdf5925a17f208",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13156",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": null,
-      "snapshotDate": null,
-      "status": "not_found",
-      "snapshotDates": []
+      "ourLastSnapshot": "2026-04",
+      "snapshotDate": "2026-04-01T07:06:31.860Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-04"
+      ],
+      "status": "ok"
     },
     {
       "id": "ppi",
@@ -397,14 +401,18 @@
       "id": "basel3",
       "title": "Master Circular – Basel III Capital Regulations",
       "category": "Capital & Regulatory Reporting",
-      "hash": null,
-      "sourceUrl": null,
-      "pdfUrl": null,
+      "hash": "75e01cbbcef9ea2ee63fa70bbd44aac7dfeb89ce1c6c0a207d250b5418807e6f",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": null,
-      "snapshotDate": null,
-      "status": "skipped",
-      "snapshotDates": []
+      "ourLastSnapshot": "2026-04",
+      "snapshotDate": "2026-04-01T07:07:52.991Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-04"
+      ],
+      "status": "ok"
     },
     {
       "id": "op-risk",
