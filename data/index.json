@@ -1,22 +1,23 @@
 {
-  "lastScraped": "2026-04-01T07:09:05.980Z",
+  "lastScraped": "2026-05-01T09:18:38.077Z",
   "totalDocs": 35,
-  "changedThisRun": 2,
+  "changedThisRun": 7,
   "docs": [
     {
       "id": "kyc",
       "title": "RBI (Commercial Banks) Know Your Customer (KYC) Directions",
       "category": "Customer & Account Operations",
-      "hash": "3cd69e60c9de546cb717d93185ac53429ef01937c984d9a78ada2cbd73463e26",
+      "hash": "473768579d7e0061e650927dc0c72602ce814b8056b0948b07c84bca53cf5a96",
       "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13141",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-03",
-      "snapshotDate": "2026-03-11T05:11:49.652Z",
+      "ourLastSnapshot": "2026-05",
+      "snapshotDate": "2026-05-01T09:13:48.697Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-03"
+        "2026-03",
+        "2026-05"
       ],
       "status": "ok"
     },
@@ -80,16 +81,17 @@
       "id": "iracp",
       "title": "Master Circular – Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)",
       "category": "Credit & NPA Management",
-      "hash": "6541479700cca10f122b4cd4db7c8f9ca71e2cde4e21f70b9a301feefad55c3b",
-      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13146",
+      "hash": "9fb54522e060bfe86df9eb6d8065ffd82eee5d25bd5d5d743976569ed743640f",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13400",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-03",
-      "snapshotDate": "2026-03-11T05:12:22.198Z",
+      "ourLastSnapshot": "2026-05",
+      "snapshotDate": "2026-05-01T09:14:22.758Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-03"
+        "2026-03",
+        "2026-05"
       ],
       "status": "ok"
     },
@@ -97,16 +99,17 @@
       "id": "stressed-assets",
       "title": "Master Direction – Prudential Framework for Resolution of Stressed Assets",
       "category": "Credit & NPA Management",
-      "hash": "5dacec0a613676cbbea8c37c8638b67e17d752f17fbc65337385765485c4112e",
-      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
+      "hash": "9fb54522e060bfe86df9eb6d8065ffd82eee5d25bd5d5d743976569ed743640f",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13400",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-03",
-      "snapshotDate": "2026-03-11T05:12:33.301Z",
+      "ourLastSnapshot": "2026-05",
+      "snapshotDate": "2026-05-01T09:14:35.413Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-03"
+        "2026-03",
+        "2026-05"
       ],
       "status": "ok"
     },
@@ -209,16 +212,17 @@
       "id": "aml-cft",
       "title": "Master Direction – Anti-Money Laundering and Combating Financing of Terrorism (AML/CFT)",
       "category": "Compliance & AML",
-      "hash": "d4013e165d7dc1848d78e12ee316578437204e5861251e8c25ca48684c094627",
-      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13151",
+      "hash": "c820d4bd0ca490898f19573566250ec60ec935e4ff8707ba35d2cb39b3a51abe",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13137",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-03",
-      "snapshotDate": "2026-03-11T05:13:14.767Z",
+      "ourLastSnapshot": "2026-05",
+      "snapshotDate": "2026-05-01T09:15:20.354Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-03"
+        "2026-03",
+        "2026-05"
       ],
       "status": "ok"
     },
@@ -286,16 +290,17 @@
       "id": "digital-lending",
       "title": "Master Direction – Digital Lending",
       "category": "Digital & Payments",
-      "hash": "3fbfe9468029627cc45bc9dde5e183f0cc81219dff05d6ed06fdf5925a17f208",
-      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13156",
+      "hash": "f68e3c0a048c87eabedf14d3d227588c3df459d0651395f8efc8d31bfa2f8a08",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13399",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-04",
-      "snapshotDate": "2026-04-01T07:06:31.860Z",
+      "ourLastSnapshot": "2026-05",
+      "snapshotDate": "2026-05-01T09:16:01.675Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-04"
+        "2026-04",
+        "2026-05"
       ],
       "status": "ok"
     },
@@ -354,16 +359,17 @@
       "id": "liquidity-lcr",
       "title": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
       "category": "Treasury & Investments",
-      "hash": "e0410f27ed8a5cd8548bd474583833d688e6aa51332c8943301bd2ddb2c1985f",
+      "hash": "665b361deb13d28e3e4c870829cea1c11b0dbb87a2f66c94287a5374fc0b2663",
       "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13160",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-03",
-      "snapshotDate": "2026-03-11T05:14:32.087Z",
+      "ourLastSnapshot": "2026-05",
+      "snapshotDate": "2026-05-01T09:16:50.832Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-03"
+        "2026-03",
+        "2026-05"
       ],
       "status": "ok"
     },
@@ -401,16 +407,17 @@
       "id": "basel3",
       "title": "Master Circular – Basel III Capital Regulations",
       "category": "Capital & Regulatory Reporting",
-      "hash": "75e01cbbcef9ea2ee63fa70bbd44aac7dfeb89ce1c6c0a207d250b5418807e6f",
+      "hash": "f45ab72b6734a10af6a1ea17423c4a4535cd776b40bf02428cea0421c96cbddd",
       "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-04",
-      "snapshotDate": "2026-04-01T07:07:52.991Z",
+      "ourLastSnapshot": "2026-05",
+      "snapshotDate": "2026-05-01T09:17:22.657Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-04"
+        "2026-04",
+        "2026-05"
       ],
       "status": "ok"
     },

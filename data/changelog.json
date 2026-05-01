@@ -1,5 +1,61 @@
 [
   {
+    "docId": "kyc",
+    "docTitle": "RBI (Commercial Banks) Know Your Customer (KYC) Directions",
+    "category": "Customer & Account Operations",
+    "changeDate": "2026-05-01T09:18:38.077Z",
+    "snapshot": "2026-05",
+    "status": "updated"
+  },
+  {
+    "docId": "iracp",
+    "docTitle": "Master Circular – Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)",
+    "category": "Credit & NPA Management",
+    "changeDate": "2026-05-01T09:18:38.077Z",
+    "snapshot": "2026-05",
+    "status": "updated"
+  },
+  {
+    "docId": "stressed-assets",
+    "docTitle": "Master Direction – Prudential Framework for Resolution of Stressed Assets",
+    "category": "Credit & NPA Management",
+    "changeDate": "2026-05-01T09:18:38.077Z",
+    "snapshot": "2026-05",
+    "status": "updated"
+  },
+  {
+    "docId": "aml-cft",
+    "docTitle": "Master Direction – Anti-Money Laundering and Combating Financing of Terrorism (AML/CFT)",
+    "category": "Compliance & AML",
+    "changeDate": "2026-05-01T09:18:38.077Z",
+    "snapshot": "2026-05",
+    "status": "updated"
+  },
+  {
+    "docId": "digital-lending",
+    "docTitle": "Master Direction – Digital Lending",
+    "category": "Digital & Payments",
+    "changeDate": "2026-05-01T09:18:38.077Z",
+    "snapshot": "2026-05",
+    "status": "updated"
+  },
+  {
+    "docId": "liquidity-lcr",
+    "docTitle": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-05-01T09:18:38.077Z",
+    "snapshot": "2026-05",
+    "status": "updated"
+  },
+  {
+    "docId": "basel3",
+    "docTitle": "Master Circular – Basel III Capital Regulations",
+    "category": "Capital & Regulatory Reporting",
+    "changeDate": "2026-05-01T09:18:38.077Z",
+    "snapshot": "2026-05",
+    "status": "updated"
+  },
+  {
     "docId": "digital-lending",
     "docTitle": "Master Direction – Digital Lending",
     "category": "Digital & Payments",
@@ -24,14 +80,6 @@
     "status": "new"
   },
   {
-    "docId": "wilful-defaulters",
-    "docTitle": "Master Direction – Wilful Defaulters and Large Defaulters",
-    "category": "Customer & Account Operations",
-    "changeDate": "2026-03-11T05:16:14.626Z",
-    "snapshot": "2026-03",
-    "status": "new"
-  },
-  {
     "docId": "iracp",
     "docTitle": "Master Circular – Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)",
     "category": "Credit & NPA Management",
@@ -48,17 +96,33 @@
     "status": "new"
   },
   {
-    "docId": "securitisation",
-    "docTitle": "RBI (Securitisation of Standard Assets) Directions, 2021",
-    "category": "Credit & NPA Management",
+    "docId": "aml-cft",
+    "docTitle": "Master Direction – Anti-Money Laundering and Combating Financing of Terrorism (AML/CFT)",
+    "category": "Compliance & AML",
     "changeDate": "2026-03-11T05:16:14.626Z",
     "snapshot": "2026-03",
     "status": "new"
   },
   {
-    "docId": "aml-cft",
-    "docTitle": "Master Direction – Anti-Money Laundering and Combating Financing of Terrorism (AML/CFT)",
-    "category": "Compliance & AML",
+    "docId": "liquidity-lcr",
+    "docTitle": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "wilful-defaulters",
+    "docTitle": "Master Direction – Wilful Defaulters and Large Defaulters",
+    "category": "Customer & Account Operations",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "securitisation",
+    "docTitle": "RBI (Securitisation of Standard Assets) Directions, 2021",
+    "category": "Credit & NPA Management",
     "changeDate": "2026-03-11T05:16:14.626Z",
     "snapshot": "2026-03",
     "status": "new"
@@ -98,14 +162,6 @@
   {
     "docId": "investment-port",
     "docTitle": "Master Direction – Classification, Valuation and Operation of Investment Portfolio",
-    "category": "Treasury & Investments",
-    "changeDate": "2026-03-11T05:16:14.626Z",
-    "snapshot": "2026-03",
-    "status": "new"
-  },
-  {
-    "docId": "liquidity-lcr",
-    "docTitle": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
     "category": "Treasury & Investments",
     "changeDate": "2026-03-11T05:16:14.626Z",
     "snapshot": "2026-03",
