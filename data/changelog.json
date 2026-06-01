@@ -1,5 +1,21 @@
 [
   {
+    "docId": "investment-port",
+    "docTitle": "Master Direction – Classification, Valuation and Operation of Investment Portfolio",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-06-01T06:59:27.100Z",
+    "snapshot": "2026-06",
+    "status": "updated"
+  },
+  {
+    "docId": "basel3",
+    "docTitle": "Master Circular – Basel III Capital Regulations",
+    "category": "Capital & Regulatory Reporting",
+    "changeDate": "2026-06-01T06:59:27.100Z",
+    "snapshot": "2026-06",
+    "status": "updated"
+  },
+  {
     "docId": "kyc",
     "docTitle": "RBI (Commercial Banks) Know Your Customer (KYC) Directions",
     "category": "Customer & Account Operations",
@@ -70,6 +86,14 @@
     "changeDate": "2026-04-01T07:09:05.980Z",
     "snapshot": "2026-04",
     "status": "updated"
+  },
+  {
+    "docId": "investment-port",
+    "docTitle": "Master Direction – Classification, Valuation and Operation of Investment Portfolio",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
   },
   {
     "docId": "kyc",
@@ -155,14 +179,6 @@
     "docId": "payment-auth",
     "docTitle": "Master Direction – Authorisation of Payment Systems",
     "category": "Digital & Payments",
-    "changeDate": "2026-03-11T05:16:14.626Z",
-    "snapshot": "2026-03",
-    "status": "new"
-  },
-  {
-    "docId": "investment-port",
-    "docTitle": "Master Direction – Classification, Valuation and Operation of Investment Portfolio",
-    "category": "Treasury & Investments",
     "changeDate": "2026-03-11T05:16:14.626Z",
     "snapshot": "2026-03",
     "status": "new"

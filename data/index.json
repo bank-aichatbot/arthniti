@@ -1,7 +1,7 @@
 {
-  "lastScraped": "2026-05-01T09:18:38.077Z",
+  "lastScraped": "2026-06-01T06:59:27.100Z",
   "totalDocs": 35,
-  "changedThisRun": 7,
+  "changedThisRun": 2,
   "docs": [
     {
       "id": "kyc",
@@ -342,16 +342,17 @@
       "id": "investment-port",
       "title": "Master Direction – Classification, Valuation and Operation of Investment Portfolio",
       "category": "Treasury & Investments",
-      "hash": "5dacec0a613676cbbea8c37c8638b67e17d752f17fbc65337385765485c4112e",
+      "hash": "a9b8a7018d566461b1f342ee66be943a3e995191ee8e9366645742676c7c285e",
       "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13148",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-03",
-      "snapshotDate": "2026-03-11T05:14:20.576Z",
+      "ourLastSnapshot": "2026-06",
+      "snapshotDate": "2026-06-01T06:57:19.150Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-03"
+        "2026-03",
+        "2026-06"
       ],
       "status": "ok"
     },
@@ -407,17 +408,18 @@
       "id": "basel3",
       "title": "Master Circular – Basel III Capital Regulations",
       "category": "Capital & Regulatory Reporting",
-      "hash": "f45ab72b6734a10af6a1ea17423c4a4535cd776b40bf02428cea0421c96cbddd",
+      "hash": "af972bcb9509888f7384e7d26f35ed25c263b5cdb45fc15dccbae901811c7963",
       "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13159",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-05",
-      "snapshotDate": "2026-05-01T09:17:22.657Z",
+      "ourLastSnapshot": "2026-06",
+      "snapshotDate": "2026-06-01T06:58:05.311Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
         "2026-04",
-        "2026-05"
+        "2026-05",
+        "2026-06"
       ],
       "status": "ok"
     },
