@@ -1,7 +1,7 @@
 {
-  "lastScraped": "2026-06-01T06:59:27.100Z",
+  "lastScraped": "2026-07-01T06:30:20.840Z",
   "totalDocs": 35,
-  "changedThisRun": 2,
+  "changedThisRun": 5,
   "docs": [
     {
       "id": "kyc",
@@ -117,14 +117,18 @@
       "id": "agriculture-gcc",
       "title": "Master Direction – Credit Flow to Agriculture and General Credit Card Scheme",
       "category": "Credit & NPA Management",
-      "hash": null,
-      "sourceUrl": null,
-      "pdfUrl": null,
+      "hash": "e974dea25f80cf90b19c9c0c36e2cec4aed9258a88ffbffb583dd700daf4b2e2",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13522",
+      "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": null,
-      "snapshotDate": null,
-      "status": "not_found",
-      "snapshotDates": []
+      "ourLastSnapshot": "2026-07",
+      "snapshotDate": "2026-07-01T06:26:20.038Z",
+      "sourceType": "html",
+      "chunks": 1,
+      "snapshotDates": [
+        "2026-07"
+      ],
+      "status": "ok"
     },
     {
       "id": "priority-sector",
@@ -273,16 +277,17 @@
       "id": "digital-pay-sec",
       "title": "Master Direction – Digital Payment Security Controls",
       "category": "Digital & Payments",
-      "hash": "e5a3f77e579de55afd1f985edf0bc01a15a0e27d151b7519719d2702305ca4c7",
+      "hash": "262bd0cc9e671f12db9b084ade924639f01502203bd15a82cef8009231a62148",
       "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12898",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-03",
-      "snapshotDate": "2026-03-11T05:13:43.226Z",
+      "ourLastSnapshot": "2026-07",
+      "snapshotDate": "2026-07-01T06:27:32.084Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-03"
+        "2026-03",
+        "2026-07"
       ],
       "status": "ok"
     },
@@ -325,16 +330,17 @@
       "id": "payment-auth",
       "title": "Master Direction – Authorisation of Payment Systems",
       "category": "Digital & Payments",
-      "hash": "dd2787c3693a5e0f6bd8d8eeb018eacdaf62898fd0f66ac24c606353ba643aca",
-      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=12715",
+      "hash": "134012edd3d245173fee7445fb7a751bf639bcd9b236c4b2ad21741f0c58e3f6",
+      "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13502",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-03",
-      "snapshotDate": "2026-03-11T05:14:09.140Z",
+      "ourLastSnapshot": "2026-07",
+      "snapshotDate": "2026-07-01T06:28:11.853Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-03"
+        "2026-03",
+        "2026-07"
       ],
       "status": "ok"
     },
@@ -360,17 +366,18 @@
       "id": "liquidity-lcr",
       "title": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
       "category": "Treasury & Investments",
-      "hash": "665b361deb13d28e3e4c870829cea1c11b0dbb87a2f66c94287a5374fc0b2663",
+      "hash": "b5c00877d822c756f1a502443dd53e4c266327ae6e7cce2de3c61e0fcaa7b210",
       "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13160",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-05",
-      "snapshotDate": "2026-05-01T09:16:50.832Z",
+      "ourLastSnapshot": "2026-07",
+      "snapshotDate": "2026-07-01T06:28:37.481Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
         "2026-03",
-        "2026-05"
+        "2026-05",
+        "2026-07"
       ],
       "status": "ok"
     },
@@ -504,16 +511,17 @@
       "id": "fema-export",
       "title": "Master Direction – Export of Goods and Services (FEMA)",
       "category": "Foreign Exchange (FEMA)",
-      "hash": "05d25cd2a41bf28a61b99d9fdfd5855bfcd08bebec2ae78c652a8e486f2cffd4",
+      "hash": "38fb02b0d8c6539dee8e9e211541770f5038ff0a1b130d4143921d68622b81f7",
       "sourceUrl": "https://rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=10395",
       "pdfUrl": "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
       "rbiLastUpdated": null,
-      "ourLastSnapshot": "2026-03",
-      "snapshotDate": "2026-03-11T05:15:49.137Z",
+      "ourLastSnapshot": "2026-07",
+      "snapshotDate": "2026-07-01T06:29:53.581Z",
       "sourceType": "html",
       "chunks": 1,
       "snapshotDates": [
-        "2026-03"
+        "2026-03",
+        "2026-07"
       ],
       "status": "ok"
     },

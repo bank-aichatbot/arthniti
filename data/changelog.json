@@ -1,5 +1,45 @@
 [
   {
+    "docId": "agriculture-gcc",
+    "docTitle": "Master Direction – Credit Flow to Agriculture and General Credit Card Scheme",
+    "category": "Credit & NPA Management",
+    "changeDate": "2026-07-01T06:30:20.840Z",
+    "snapshot": "2026-07",
+    "status": "updated"
+  },
+  {
+    "docId": "digital-pay-sec",
+    "docTitle": "Master Direction – Digital Payment Security Controls",
+    "category": "Digital & Payments",
+    "changeDate": "2026-07-01T06:30:20.840Z",
+    "snapshot": "2026-07",
+    "status": "updated"
+  },
+  {
+    "docId": "payment-auth",
+    "docTitle": "Master Direction – Authorisation of Payment Systems",
+    "category": "Digital & Payments",
+    "changeDate": "2026-07-01T06:30:20.840Z",
+    "snapshot": "2026-07",
+    "status": "updated"
+  },
+  {
+    "docId": "liquidity-lcr",
+    "docTitle": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-07-01T06:30:20.840Z",
+    "snapshot": "2026-07",
+    "status": "updated"
+  },
+  {
+    "docId": "fema-export",
+    "docTitle": "Master Direction – Export of Goods and Services (FEMA)",
+    "category": "Foreign Exchange (FEMA)",
+    "changeDate": "2026-07-01T06:30:20.840Z",
+    "snapshot": "2026-07",
+    "status": "updated"
+  },
+  {
     "docId": "investment-port",
     "docTitle": "Master Direction – Classification, Valuation and Operation of Investment Portfolio",
     "category": "Treasury & Investments",
@@ -13,6 +53,22 @@
     "category": "Capital & Regulatory Reporting",
     "changeDate": "2026-06-01T06:59:27.100Z",
     "snapshot": "2026-06",
+    "status": "updated"
+  },
+  {
+    "docId": "liquidity-lcr",
+    "docTitle": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-05-01T09:18:38.077Z",
+    "snapshot": "2026-05",
+    "status": "updated"
+  },
+  {
+    "docId": "basel3",
+    "docTitle": "Master Circular – Basel III Capital Regulations",
+    "category": "Capital & Regulatory Reporting",
+    "changeDate": "2026-05-01T09:18:38.077Z",
+    "snapshot": "2026-05",
     "status": "updated"
   },
   {
@@ -56,19 +112,11 @@
     "status": "updated"
   },
   {
-    "docId": "liquidity-lcr",
-    "docTitle": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
-    "category": "Treasury & Investments",
-    "changeDate": "2026-05-01T09:18:38.077Z",
-    "snapshot": "2026-05",
-    "status": "updated"
-  },
-  {
     "docId": "basel3",
     "docTitle": "Master Circular – Basel III Capital Regulations",
     "category": "Capital & Regulatory Reporting",
-    "changeDate": "2026-05-01T09:18:38.077Z",
-    "snapshot": "2026-05",
+    "changeDate": "2026-04-01T07:09:05.980Z",
+    "snapshot": "2026-04",
     "status": "updated"
   },
   {
@@ -80,12 +128,28 @@
     "status": "updated"
   },
   {
-    "docId": "basel3",
-    "docTitle": "Master Circular – Basel III Capital Regulations",
-    "category": "Capital & Regulatory Reporting",
-    "changeDate": "2026-04-01T07:09:05.980Z",
-    "snapshot": "2026-04",
-    "status": "updated"
+    "docId": "digital-pay-sec",
+    "docTitle": "Master Direction – Digital Payment Security Controls",
+    "category": "Digital & Payments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "payment-auth",
+    "docTitle": "Master Direction – Authorisation of Payment Systems",
+    "category": "Digital & Payments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
+  },
+  {
+    "docId": "liquidity-lcr",
+    "docTitle": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
+    "category": "Treasury & Investments",
+    "changeDate": "2026-03-11T05:16:14.626Z",
+    "snapshot": "2026-03",
+    "status": "new"
   },
   {
     "docId": "investment-port",
@@ -123,14 +187,6 @@
     "docId": "aml-cft",
     "docTitle": "Master Direction – Anti-Money Laundering and Combating Financing of Terrorism (AML/CFT)",
     "category": "Compliance & AML",
-    "changeDate": "2026-03-11T05:16:14.626Z",
-    "snapshot": "2026-03",
-    "status": "new"
-  },
-  {
-    "docId": "liquidity-lcr",
-    "docTitle": "Master Direction – Liquidity Risk Management Framework and Liquidity Coverage Ratio",
-    "category": "Treasury & Investments",
     "changeDate": "2026-03-11T05:16:14.626Z",
     "snapshot": "2026-03",
     "status": "new"
@@ -160,24 +216,8 @@
     "status": "new"
   },
   {
-    "docId": "digital-pay-sec",
-    "docTitle": "Master Direction – Digital Payment Security Controls",
-    "category": "Digital & Payments",
-    "changeDate": "2026-03-11T05:16:14.626Z",
-    "snapshot": "2026-03",
-    "status": "new"
-  },
-  {
     "docId": "ppi",
     "docTitle": "Master Direction – Prepaid Payment Instruments",
-    "category": "Digital & Payments",
-    "changeDate": "2026-03-11T05:16:14.626Z",
-    "snapshot": "2026-03",
-    "status": "new"
-  },
-  {
-    "docId": "payment-auth",
-    "docTitle": "Master Direction – Authorisation of Payment Systems",
     "category": "Digital & Payments",
     "changeDate": "2026-03-11T05:16:14.626Z",
     "snapshot": "2026-03",
